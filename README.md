@@ -16,12 +16,14 @@
 - ⚡ Fun fact **I should have more than 6 years of experience in Java but had to stop because of the money**
 
 <h2>About me</h2> 
-I am a student at Henry and Oracle One, seeking an opportunity to gain experience as a full stack or back-end developer in React, Next.js, Express, NoSQL, and SQL. I always strive to work in a team and support others in the best way possible.
-
+<p>I am a student at Henry and Oracle One, seeking an opportunity to gain experience as a full stack or back-end developer in React, Next.js, Express, NoSQL, and SQL. I always strive to work in a team and support others in the best way possible.</p>
+<br/>
+<p>
 I have always been passionate about challenges. Since I was young, I would spend hours playing chess against my father, and I still remember the first time I managed to beat him. When I realized that I could work in something that involved logic, I got excited and started learning on my own at the age of 14. I would watch YouTube videos, particularly those by a guy named Alejandro Tabora, who didn't seem much older than me. During that time, my first programming language was Java, and I also learned some C++. Unfortunately, due to financial reasons, I couldn't continue my studies during my university years, so I focused on the IT field, specifically in industrial maintenance. Later on, I learned English and pursued a diploma in web design when websites were still created using tables in HTML. I continued working in industrial maintenance, but my love for programming never faded.
-
+</p>
+<p>
 Around 8 or 9 months ago, I made a commitment to myself to pursue my dreams, which brings me here today. I decided to learn React and pick up where I left off with Java. I am a person who doesn't give up easily, and I love learning something new every day.
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
