@@ -24,6 +24,7 @@ I have always been passionate about challenges. Since I was young, I would spend
 Around 8 or 9 months ago, I made a commitment to myself to pursue my dreams, which brings me here today. I decided to learn React and pick up where I left off with Java. I am a person who doesn't give up easily, and I love learning something new every day.
 </p>
 
+--- 
 
 Metodología | Scrum.
 
