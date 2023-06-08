@@ -44,5 +44,5 @@ Project Management | Slack & Trello.
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRSantamaria&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRSantamaria&hide_progress=false)
 
